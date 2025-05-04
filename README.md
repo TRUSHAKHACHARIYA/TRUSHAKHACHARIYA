@@ -44,23 +44,6 @@
 
 ---
 
-## 🎯 Latest Projects
-
-### 🚀 **[Digit Recognition App](https://github.com/Trusha-7Span/Handwritten-Digit-Recognition)**
-A deep learning-powered web app to recognize handwritten digits with an MNIST model. Built with Flask, TensorFlow, and OpenCV.  
-🔧 **Tech Stack**: TensorFlow, Flask, OpenCV, JavaScript  
-
-### 🚀 **[AI PDF Text & Digit Recognition](https://github.com/Trusha-7Span/AI-PDF-Recognition)**
-PDF-based file processing with text and digit recognition using Tesseract.js and TensorFlow.js for browser-based applications.  
-🔧 **Tech Stack**: TensorFlow.js, Tesseract.js, HTML, JavaScript, PDF.js  
-
-
-### 🚀 **[ML CRUD Vector Database](https://github.com/Trusha-7Span/Vector-Database-CRUD)**
-A beginner-friendly vector database with CRUD operations for ML model storage and search operations.  
-🔧 **Tech Stack**: SQLite, Python, scikit-learn, numpy  
-
-
----
 
 ## 📚 ML Libraries & Tools I Use
 
